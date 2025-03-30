@@ -56,7 +56,7 @@ function checkInput() {
     }
 
     else if (!isExpiryValid(expdateValue)) {
-        showError(expdate, "Not Valid! Eg.02/2020");
+        showError(expdate, "Not Valid! Eg.02/2025");
     }
     else {
         showSuccess(expdate);
