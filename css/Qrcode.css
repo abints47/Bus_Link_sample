@@ -1,0 +1,29 @@
+img {
+    display: block;
+    margin: auto;
+    width: 30%;
+  }
+  
+  button {
+    display: inline-block;
+    /* right: 0; */
+    width: 28%;
+    background-color: rgb(57, 82, 226);
+    color: white;
+    text-align: center;
+    padding: 10px 8px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 2px 2px 5px #464545e3;
+}
+#pdf{
+    right: 0;
+
+}
+#edit{
+    margin-left: 5px;
+}
+.button{
+    text-align: center;
+}

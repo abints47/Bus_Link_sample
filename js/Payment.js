@@ -122,7 +122,7 @@ function showSuccess(input) {
 var pay = document.getElementById("payment")
 var money = localStorage.getItem('Payment')
 
-pay.innerHTML = "Rs " + money + "/-";
+pay.innerHTML = "Rs "  +"50/-";
 
 
 
