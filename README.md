@@ -1,2 +1,0 @@
-# BUS PASS SYSTEM
-
